@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/EdugoFE1_deploy/static/css/main.54beb3a5.chunk.css",
+    "main.js": "/EdugoFE1_deploy/static/js/main.af044673.chunk.js",
+    "main.js.map": "/EdugoFE1_deploy/static/js/main.af044673.chunk.js.map",
+    "runtime-main.js": "/EdugoFE1_deploy/static/js/runtime-main.4f248c52.js",
+    "runtime-main.js.map": "/EdugoFE1_deploy/static/js/runtime-main.4f248c52.js.map",
+    "static/js/2.30f54621.chunk.js": "/EdugoFE1_deploy/static/js/2.30f54621.chunk.js",
+    "static/js/2.30f54621.chunk.js.map": "/EdugoFE1_deploy/static/js/2.30f54621.chunk.js.map",
+    "index.html": "/EdugoFE1_deploy/index.html",
+    "precache-manifest.57250ebc9803847dcfb1f5ee95a6e76a.js": "/EdugoFE1_deploy/precache-manifest.57250ebc9803847dcfb1f5ee95a6e76a.js",
+    "service-worker.js": "/EdugoFE1_deploy/service-worker.js",
+    "static/css/main.54beb3a5.chunk.css.map": "/EdugoFE1_deploy/static/css/main.54beb3a5.chunk.css.map",
+    "static/js/2.30f54621.chunk.js.LICENSE.txt": "/EdugoFE1_deploy/static/js/2.30f54621.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4f248c52.js",
+    "static/js/2.30f54621.chunk.js",
+    "static/css/main.54beb3a5.chunk.css",
+    "static/js/main.af044673.chunk.js"
+  ]
+}
